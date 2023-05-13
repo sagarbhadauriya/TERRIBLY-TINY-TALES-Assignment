@@ -31,9 +31,13 @@ The application uses the following libraries and plugins:
 The application is deployed on Netlify and can be accessed at [frequentwords.netlify.app](https://frequentwords.netlify.app/).
 
 ## Screenshots
+
+On first load, only Submit button has displayed:
 ![image](https://github.com/sagarbhadauriya/TERRIBLY-TINY-TALES-Assignment/assets/72752355/fbc86b29-90f0-4d45-98cd-ae1716931b8c)
 
+On clicking on Submit, the contents of https://www.terriblytinytales.com/test.txt will be fetched and then a histogram of the 20 most occurring words has been plotted:
 ![image](https://github.com/sagarbhadauriya/TERRIBLY-TINY-TALES-Assignment/assets/72752355/b3060014-70a9-410f-ab97-f188935f7e21)
 
+When user clicked on "Export" button, it will download a CSV file of the histogram data:
 ![image](https://github.com/sagarbhadauriya/TERRIBLY-TINY-TALES-Assignment/assets/72752355/b9c096c8-926b-4c84-bce3-b7e753c77bd5)
 
