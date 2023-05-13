@@ -28,4 +28,4 @@ The application uses the following libraries and plugins:
 
 ## Deployment
 
-The application is deployed on Netlify and can be accessed at [word-frequency-counter.netlify.app](https://word-frequency-counter.netlify.app/).
+The application is deployed on Netlify and can be accessed at [frequentwords.netlify.app](https://frequentwords.netlify.app/).
